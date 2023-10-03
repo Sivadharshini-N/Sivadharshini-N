@@ -1,7 +1,7 @@
 <h1 align="center">Hello !! Myself Sivadharshini</h1>
 <h3 align="center">Computer Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivadharshini-n&label=Profile%20views&color=0e75b6&style=flat" alt="sivadharshini-n" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sivadharshini-n&label=Profile%20views&color=0e75b6&style=flat" alt="sivadharshini-n" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivadharshini-n" alt="sivadharshini-n" /></a> </p>
 
