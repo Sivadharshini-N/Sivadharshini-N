@@ -14,3 +14,4 @@ You can connect with me through:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sivadharshini-N&show_icons=true&theme=tokyonight)
 
 
+<style>H1{color:Blue;}</style> <style>H2{color:DarkOrange;}</style> <style>p{color:Black;}</style>
