@@ -1,4 +1,4 @@
-<h1 style="color:blue;">Hello world!!, I'm Sivadharshini</h1>
+<h1 style="color:blue;" align="center">Hello world!!, I'm Sivadharshini</h1>
 I'm a Computer science student and about to complete my degree on 2026 at Sri Shakthi Institute. Currently learning Frontend and Flutter...
 
 
