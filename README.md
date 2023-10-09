@@ -31,8 +31,14 @@ You can connect with me through:
 
 
 
+
+<h3>An upcoming trendsetter 😅</h3>
+
+
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sivadharshini-N&show_icons=true&theme=tokyonight)
-<h3 align="center">An upcoming trendsetter 😅</h3>
 
 
 
